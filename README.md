@@ -7,5 +7,5 @@ Output: The date entered is {Month} {Day}, {Year}.
 
 Example:
 
-[Program Output](/ioProg.png)
+[![example output](https://github.com/will-gebbie/Simple-I-O-Assembly-68k-Program/raw/master/ioProg.png)]
 
