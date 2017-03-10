@@ -7,7 +7,5 @@ Output: The date entered is {Month} {Day}, {Year}.
 
 Example:
 
-
-
-
+[Program Output](/ioProg.png)
 
